@@ -90,8 +90,8 @@ Description + justification + différence entre web et mobile + captures d'écra
 ## Maquettes finales
 Quels design system ont été utilisés. Lequel a été sélectionné pour l'integration.
 
-## Maquette Mobile Elsa
+### Maquette Mobile Elsa
 https://www.figma.com/file/DskeYvLuwb0MeeW0h3MXxW/SAE-401?type=design&node-id=0%3A1&mode=design&t=GaUnqXG7wlMfBKax-1
 
-## Maquette Desktop Elsa
+### Maquette Desktop Elsa
 https://www.figma.com/file/8sdNFLWOD7gDr2NZAxJF6i/SA%C3%89-DESKTOP?type=design&node-id=0%3A1&mode=design&t=MEIon05gE5BecWAk-1
