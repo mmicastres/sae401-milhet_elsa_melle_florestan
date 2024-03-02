@@ -61,9 +61,24 @@ Administration
 ### Navigation
 Menu caché ? visible ? pourquoi ? quel éléments dans le menu ? pourquoi ? à part le menu, y'a t-il d'autres moyen qui permettent de naviguer ? 
 
+Nous avons opté pour un menu burger pour optimiser l'espace visuel de la page d'accueil. Étant donné que la page d'accueil est destinée à mettre en avant les animaux disponibles pour l'adoption, réduire la visibilité du menu principal permet de mettre l'accent sur le contenu principal.
+Le menu burger offre également une apparence épurée et moderne à la page d'accueil.
+
+En cliquant sur le menu burger, les utilisateurs peuvent accéder à un menu déroulant qui permet de naviguer sur les différentes pages de l'application, telles que :
+Mes Favoris : Page renvoyant une liste des animaux gardés en favoris.
+Mon Profil : Page complète qui permet de visualiser ses informations personnelles, ses animaux, ainsi que d'ajouter et/ou modifier ceux-ci.
 
 ### Accueil
-Description de la page d'accueil et justification de vos choix de conception (ex. pourquoi vous avez choisi de mettre en avant (ou non) tel élément, avez vous fait des choix par défaut ?  )
+
+Notre header est constitué d'un menu burger qui permet la navigation vers les différentes pages ainsi que du profil de l'utilisateur.
+
+Au-dessous du header, nous avons intégré une section de recherche qui permet aux utilisateurs de trouver rapidement un animal spécifique en entrant des mots-clés et un bouton afin de filtrer sa recherche. Ces fonctionnalités sont essentielles pour les utilisateurs qui ont déjà une idée précise de l'animal qu'ils souhaitent adopter.
+
+Juste en dessous de la section de recherche, nous avons inclus des filtres de recherche avancée. Ces filtres permettent aux utilisateurs de restreindre leurs résultats en fonction de critères spécifiques tels que l'âge, le sexe, la taille, etc. Nous avons choisi d'inclure cette fonctionnalité pour permettre aux utilisateurs d'affiner leur recherche et de trouver plus facilement l'animal qui correspond à leurs préférences et à leurs besoins.
+
+Nous avons mis en avant un menu, listant les animaux disponibles à l'adoption. Par défaut, la page affiche tous les animaux disponibles, ce qui permet aux utilisateurs d'avoir une vue d'ensemble de toutes les options disponibles dès leur arrivée sur le site.
+
+Chaque animal est présenté par une card, avec une photo, son nom, son âge, son sexe, sa race ainsi que le lieu où il réside. Cette présentation permet aux utilisateurs d'avoir un aperçu rapide des animaux disponibles et de décider lesquels ils souhaitent explorer davantage. Aussi, si ceux-ci ont marqué leur esprit, il y a la possibilité de mettre un like sur l'animal.
 
 ### Ecran 1 / Page 1
 Description + justification + différence entre web et mobile + captures d'écran 
@@ -77,5 +92,8 @@ Description + justification + différence entre web et mobile + captures d'écra
 ## Maquettes finales
 Quels design system ont été utilisés. Lequel a été sélectionné pour l'integration.
 
-Mobile Elsa : https://www.figma.com/file/DskeYvLuwb0MeeW0h3MXxW/SAE-401?type=design&node-id=0%3A1&mode=design&t=GaUnqXG7wlMfBKax-1
-Desktop Elsa : https://www.figma.com/file/8sdNFLWOD7gDr2NZAxJF6i/SA%C3%89-DESKTOP?type=design&node-id=0%3A1&mode=design&t=MEIon05gE5BecWAk-1
+## Maquette Mobile Elsa
+https://www.figma.com/file/DskeYvLuwb0MeeW0h3MXxW/SAE-401?type=design&node-id=0%3A1&mode=design&t=GaUnqXG7wlMfBKax-1
+
+## Maquette Desktop Elsa
+https://www.figma.com/file/8sdNFLWOD7gDr2NZAxJF6i/SA%C3%89-DESKTOP?type=design&node-id=0%3A1&mode=design&t=MEIon05gE5BecWAk-1
