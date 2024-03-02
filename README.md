@@ -1,9 +1,8 @@
 # Dossier UX
 
 ## Membres du groupe
-Milhet Elsa
+Milhet Elsa & 
 Mellé Florestan
-
 
 ## Description générale de l'application
 Ce projet a pour but de mettre en œuvre les enseignements des modules “Design d’expérience”, “Développement Front et intégration”, “Développement Back”, “Gestion de projet”, et “Déploiement de services. 
@@ -59,7 +58,6 @@ Administration
 
 
 ### Navigation
-Menu caché ? visible ? pourquoi ? quel éléments dans le menu ? pourquoi ? à part le menu, y'a t-il d'autres moyen qui permettent de naviguer ? 
 
 Nous avons opté pour un menu burger pour optimiser l'espace visuel de la page d'accueil. Étant donné que la page d'accueil est destinée à mettre en avant les animaux disponibles pour l'adoption, réduire la visibilité du menu principal permet de mettre l'accent sur le contenu principal.
 Le menu burger offre également une apparence épurée et moderne à la page d'accueil.
