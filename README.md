@@ -79,13 +79,31 @@ Nous avons mis en avant un menu, listant les animaux disponibles à l'adoption. 
 Chaque animal est présenté par une card, avec une photo, son nom, son âge, son sexe, sa race ainsi que le lieu où il réside. Cette présentation permet aux utilisateurs d'avoir un aperçu rapide des animaux disponibles et de décider lesquels ils souhaitent explorer davantage. Aussi, si ceux-ci ont marqué leur esprit, il y a la possibilité de mettre un like sur l'animal.
 
 ### Ecran 1 / Page 1
+
+![Starting Page](https://github.com/mmicastres/sae401-milhet_elsa_melle_florestan/assets/150163972/fb309295-30cd-43f4-8de6-9fcd892ab973)
+Première page on retrouve une icone de présentation un petit slogan en rapport avec l'application un bouton inscription et un bouton pour accéder a l'application sans se connecter
 Description + justification + différence entre web et mobile + captures d'écran 
 
 ### Ecran 2 / Page 2
+
+![inscription](https://github.com/mmicastres/sae401-milhet_elsa_melle_florestan/assets/150163972/43f1d789-f1cb-4ff9-ac38-0a004595b9cf)
+Page d'inscription comprenant les différents input pour s'inscrire, un bouton pour passer sur la page connecter et deux boutons suivant et annuler
 Description + justification + différence entre web et mobile + Captures d'écran
 
-### Ecran x / Page x
+### Ecran x / Page 3
+![Inscription2](https://github.com/mmicastres/sae401-milhet_elsa_melle_florestan/assets/150163972/e9867f51-8bfd-4968-be71-5e8e296f311e)
+Suite page inscription comprenant les input pour la ville et l'age, un bouton pour rajouter une photo de profil et enfin deux boutons pour préciser son sexe
+
+### Ecran x / Page 4
+![Connexion](https://github.com/mmicastres/sae401-milhet_elsa_melle_florestan/assets/150163972/fc9f99c5-1907-4217-938d-1f82c0a2eaaf)
+Page de connexion comprenant les différents input pour se connecter et un bouton valider la connexion
 Description + justification + différence entre web et mobile + captures d'écran
+
+### Ecran x / Page 5
+![accueilsansco](https://github.com/mmicastres/sae401-milhet_elsa_melle_florestan/assets/150163972/2c62d60b-e7ca-44ff-9b52-640d9552267d)
+Page d'accueil comprenant différentes cards dans lesquels sont affichés les animaux pour un utilisateur non connecté on retrouve un profil pour se connecter ( en haut à gauche ) et un bouton paramètre pour accéder aux paramètres on retrouve également un slider permettant de choisir le type d'animal recherché et enfin des boutons like sur chaque card pour ajouter l'animal aux animaux favoris
+
+### Ecran x / Page 6
 
 ## Maquettes finales
 Quels design system ont été utilisés. Lequel a été sélectionné pour l'integration.
