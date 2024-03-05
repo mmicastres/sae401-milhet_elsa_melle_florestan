@@ -95,9 +95,9 @@ Page de connexion comprenant deux input (mail et mot de passe) afin de se connec
 
 ![Inscription Elsa](https://github.com/mmicastres/sae401-milhet_elsa_melle_florestan/assets/144545254/0b5321ef-f917-46c9-8994-db6a3dd1c995)
 <br>
-Page d'inscription comprenant les différents input pour s'inscrire, un bouton pour passer sur la page Connexion et deux boutons suivant et annuler
+Page d'inscription comprenant les différents input pour s'inscrire et deux boutons "suivant" et "annuler".
 
-### Ecran x / Page 4
+### Ecran 4 / Page 4
 
 ![Inscription2](https://github.com/mmicastres/sae401-milhet_elsa_melle_florestan/assets/150163972/e9867f51-8bfd-4968-be71-5e8e296f311e)
 <br>
