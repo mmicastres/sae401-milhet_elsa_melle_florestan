@@ -108,28 +108,60 @@ Suite page inscription comprenant les inputs pour la ville et l'âge, un bouton 
 <br>
 Page d'accueil comprenant différentes cards dans lesquels sont affichés les animaux pour un utilisateur non connecté on retrouve un profil pour se connecter ( en haut à gauche ) et un bouton filtre pour ajouter des paramètres de recherche, un slider permettant de choisir le type d'animal recherché, une barre de recherche pour chercher un paramètre spécifique et enfin des boutons like sur chaque card pour ajouter l'animal aux favoris
 
-### Ecran x / Page 6
-![accueilsansco](https://github.com/mmicastres/sae401-milhet_elsa_melle_florestan/assets/150163972/2c62d60b-e7ca-44ff-9b52-640d9552267d)
+### Ecran 6 / Page 4
+![Accueil Elsa](https://github.com/mmicastres/sae401-milhet_elsa_melle_florestan/assets/144545254/7fe67da7-57a7-4f2e-a63c-2706f81b9c28)
 <br>
 Page d'accueil comprenant différentes cards dans lesquels sont affichés les animaux pour un utilisateur connecté on retrouve un profil accéder a son espace personnel ( en haut à gauche ), un bouton filtre pour ajouter des paramètres de recherche, un slider permettant de choisir le l'espèce recherchée, une barre de recherche pour chercher un paramètre spécifique et enfin des boutons like sur chaque card pour ajouter l'animal aux favoris
-<br>
-![accueildog](https://github.com/mmicastres/sae401-milhet_elsa_melle_florestan/assets/150163972/be50776c-025a-4d10-a8e0-f6eeebc9319f)
-<br>
-Page d'accueil avec les chiens séléctionnés comme espèce.
 
-### Ecran x / Page 7
-![pageanimal](https://github.com/mmicastres/sae401-milhet_elsa_melle_florestan/assets/150163972/33cd9a1e-5340-4386-b518-b1431478167d)
+### Ecran 7 / Page 4
+![Accueil chien Elsa](https://github.com/mmicastres/sae401-milhet_elsa_melle_florestan/assets/144545254/c9adf60b-263b-4e65-b081-6cf949b0e826)
+<br>
+Page d'accueil avec les chiens séléctionnés comme espèce. Toutes les pages des espèces sont faites de la même manière ayant juste la couleur qui change.
+
+### Ecran 8 / Page 5
+![Animal Elsa](https://github.com/mmicastres/sae401-milhet_elsa_melle_florestan/assets/144545254/97f796e0-8c98-4b98-bf0a-1400695c8d13)
 <br>
 Page Animal comprenant les différentes informations sur l'animal concerné : Photos, Prénom, Localisation, Sexe, Age, Poids, Taille, Description et enfin Spécificités. On retrouve également le nom et prénom du propriétaire ainsi que sa photo de profil et dans la section haute de la page on peut trouver un autre bouton like ( icone de coeur ) pour ajouter l'animal a ses favoris et un bouton pour signaler l'animal en cas de problème ( icone de cloche ).
 
-### Ecran x / Page 8
+### Ecran 9 / Page 6
 ![Espace utilisateur](https://github.com/mmicastres/sae401-milhet_elsa_melle_florestan/assets/150163972/97341173-8a1e-4d8d-a8be-180ae3747dd5)
 <br>
-Page Espace Utilisateur sur laquelle on retrouve son image profil ainsi qu'un bouton pour la changer, ses informations personnelles, ses animaux avec leurs likes et un bouton pour modifier le profil d'un animal ainsi qu'un bouton pour ajouter un animal. Dans le Header on retrouve simplement un bouton pour revenir à l'accueil.
+Page Espace Utilisateur avec la possibiité de modifier chaque informations de l'utilisateurs sauf son mot de passe.
 
-### Ecran x / Page 9
+### Ecran 10 / Page 7
+![Modifier Profil Elsa](https://github.com/mmicastres/sae401-milhet_elsa_melle_florestan/assets/144545254/6b1f6707-5597-4ae3-8007-c2923721fae2)
+<br>
+Page Modification Profil sur laquelle on retrouve son image profil ainsi qu'un bouton pour la changer, ses informations personnelles, ses animaux avec leurs likes et un bouton pour modifier le profil d'un animal ainsi qu'un bouton pour ajouter un animal. Dans le Header on retrouve simplement un bouton pour revenir à l'accueil.
 
+### Ecran 11 / Page 7
+![Modifier2 Profil Elsa](https://github.com/mmicastres/sae401-milhet_elsa_melle_florestan/assets/144545254/447eea5a-a34a-4a76-a6bc-d46f8872eb75)
+<br>
+Suite de la Page Modification Utilisateur.
 
+### Ecran 12 / Page 8
+![Ajouter Animal Elsa](https://github.com/mmicastres/sae401-milhet_elsa_melle_florestan/assets/144545254/1e9a92b8-9e5a-474c-b36e-c661b1e36612)
+<br>
+Page Ajouter un Animal avec les informations basiques.
+
+### Ecran 13 / Page 8
+![Ajouter2 Animal Elsa](https://github.com/mmicastres/sae401-milhet_elsa_melle_florestan/assets/144545254/02c5855f-4120-4ab8-a947-5d9be80f36cd)
+<br>
+Suite de la Page Ajouter un Animal: le poids est par défault en kg et l'âge en années, c'est selon nous le plus utilisé et le plus probable.
+
+### Ecran 14 / Page 9
+![Modifier Animal Elsa](https://github.com/mmicastres/sae401-milhet_elsa_melle_florestan/assets/144545254/0697670c-433d-4739-9a94-7e5db6aade23)
+<br>
+Page Modifier un Animal: avec la reprise dess informations de l'animal.
+
+### Ecran 15 / Page 9
+![Modifier2 Animal Elsa](https://github.com/mmicastres/sae401-milhet_elsa_melle_florestan/assets/144545254/adc636d7-5bcc-4ebd-aa22-576df24037f2)
+<br>
+Suite de la Page Modifier un Animal.
+
+### Ecran 16 / Page 10
+![Like Elsa](https://github.com/mmicastres/sae401-milhet_elsa_melle_florestan/assets/144545254/dd42e29e-23f5-4820-b8ee-de594aad6107)
+<br>
+Page Favoris : c'est la même schéma que l'accueil avec uniquement les animaux mis en favoris par l'utilisateur.
 
 ## Maquettes finales
 Quels design system ont été utilisés. Lequel a été sélectionné pour l'integration.
