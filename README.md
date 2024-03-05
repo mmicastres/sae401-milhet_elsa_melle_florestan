@@ -90,13 +90,13 @@ Description + justification + différence entre web et mobile + captures d'écra
 
 ![inscription](https://github.com/mmicastres/sae401-milhet_elsa_melle_florestan/assets/150163972/43f1d789-f1cb-4ff9-ac38-0a004595b9cf)
 <br>
-Page d'inscription comprenant les différents input pour s'inscrire, un bouton pour passer sur la page connecter et deux boutons suivant et annuler
+Page d'inscription comprenant les différents input pour s'inscrire, un bouton pour passer sur la page Connexion et deux boutons suivant et annuler
 Description + justification + différence entre web et mobile + Captures d'écran
 
 ### Ecran x / Page 3
 ![Inscription2](https://github.com/mmicastres/sae401-milhet_elsa_melle_florestan/assets/150163972/e9867f51-8bfd-4968-be71-5e8e296f311e)
 <br>
-Suite page inscription comprenant les input pour la ville et l'age, un bouton pour rajouter une photo de profil et enfin deux boutons pour préciser son sexe
+Suite page inscription comprenant les inputs pour la ville et l'âge, un bouton pour rajouter une photo de profil et enfin deux boutons pour préciser son sexe
 
 ### Ecran x / Page 4
 ![Connexion](https://github.com/mmicastres/sae401-milhet_elsa_melle_florestan/assets/150163972/fc9f99c5-1907-4217-938d-1f82c0a2eaaf)
@@ -107,9 +107,30 @@ Description + justification + différence entre web et mobile + captures d'écra
 ### Ecran x / Page 5
 ![accueilsansco](https://github.com/mmicastres/sae401-milhet_elsa_melle_florestan/assets/150163972/2c62d60b-e7ca-44ff-9b52-640d9552267d)
 <br>
-Page d'accueil comprenant différentes cards dans lesquels sont affichés les animaux pour un utilisateur non connecté on retrouve un profil pour se connecter ( en haut à gauche ) et un bouton paramètre pour accéder aux paramètres on retrouve également un slider permettant de choisir le type d'animal recherché et enfin des boutons like sur chaque card pour ajouter l'animal aux animaux favoris
+Page d'accueil comprenant différentes cards dans lesquels sont affichés les animaux pour un utilisateur non connecté on retrouve un profil pour se connecter ( en haut à gauche ) et un bouton filtre pour ajouter des paramètres de recherche, un slider permettant de choisir le type d'animal recherché, une barre de recherche pour chercher un paramètre spécifique et enfin des boutons like sur chaque card pour ajouter l'animal aux favoris
 
 ### Ecran x / Page 6
+![accueilsansco](https://github.com/mmicastres/sae401-milhet_elsa_melle_florestan/assets/150163972/2c62d60b-e7ca-44ff-9b52-640d9552267d)
+<br>
+Page d'accueil comprenant différentes cards dans lesquels sont affichés les animaux pour un utilisateur connecté on retrouve un profil accéder a son espace personnel ( en haut à gauche ), un bouton filtre pour ajouter des paramètres de recherche, un slider permettant de choisir le l'espèce recherchée, une barre de recherche pour chercher un paramètre spécifique et enfin des boutons like sur chaque card pour ajouter l'animal aux favoris
+<br>
+![accueildog](https://github.com/mmicastres/sae401-milhet_elsa_melle_florestan/assets/150163972/be50776c-025a-4d10-a8e0-f6eeebc9319f)
+<br>
+Page d'accueil avec les chiens séléctionnés comme espèce.
+
+### Ecran x / Page 7
+![pageanimal](https://github.com/mmicastres/sae401-milhet_elsa_melle_florestan/assets/150163972/33cd9a1e-5340-4386-b518-b1431478167d)
+<br>
+Page Animal comprenant les différentes informations sur l'animal concerné : Photos, Prénom, Localisation, Sexe, Age, Poids, Taille, Description et enfin Spécificités. On retrouve également le nom et prénom du propriétaire ainsi que sa photo de profil et dans la section haute de la page on peut trouver un autre bouton like ( icone de coeur ) pour ajouter l'animal a ses favoris et un bouton pour signaler l'animal en cas de problème ( icone de cloche ).
+
+### Ecran x / Page 8
+![Espace utilisateur](https://github.com/mmicastres/sae401-milhet_elsa_melle_florestan/assets/150163972/97341173-8a1e-4d8d-a8be-180ae3747dd5)
+<br>
+Page Espace Utilisateur sur laquelle on retrouve son image profil ainsi qu'un bouton pour la changer, ses informations personnelles, ses animaux avec leurs likes et un bouton pour modifier le profil d'un animal ainsi qu'un bouton pour ajouter un animal. Dans le Header on retrouve simplement un bouton pour revenir à l'accueil.
+
+### Ecran x / Page 9
+
+
 
 ## Maquettes finales
 Quels design system ont été utilisés. Lequel a été sélectionné pour l'integration.
