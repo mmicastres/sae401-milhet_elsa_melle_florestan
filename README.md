@@ -171,3 +171,9 @@ https://www.figma.com/file/DskeYvLuwb0MeeW0h3MXxW/SAE-401?type=design&node-id=0%
 
 ### Maquette Desktop Elsa
 https://www.figma.com/file/8sdNFLWOD7gDr2NZAxJF6i/SA%C3%89-DESKTOP?type=design&node-id=0%3A1&mode=design&t=MEIon05gE5BecWAk-1
+
+### Maquette Mobile Florestan
+https://www.figma.com/file/1JnsegMa63EZ1XLVZfmr9E/Maquette-mobile-SAE-401-Florestan-Mell%C3%A9-Cappellin?type=design&node-id=0%3A1&mode=design&t=geJeerFT3DN4FtUd-1
+
+### Maquette Desktop Florestan
+https://www.figma.com/file/MH1pjga5mhDMO52xoWEm1R/Maquette-Desktop-SAE-401-Florestan-Mell%C3%A9-Cappellin?type=design&node-id=0%3A1&mode=design&t=khsvmJLyblMZ9MOG-1
