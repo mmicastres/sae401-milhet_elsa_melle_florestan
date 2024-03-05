@@ -164,7 +164,7 @@ Suite de la Page Modifier un Animal.
 Page Favoris : c'est la même schéma que l'accueil avec uniquement les animaux mis en favoris par l'utilisateur.
 
 ## Maquettes finales
-Quels design system ont été utilisés. Lequel a été sélectionné pour l'integration.
+Nous avons utilisé Material UI le design system créé par Google pour la maquette d'Elsa et Ant Design un design system créé pour des logiciels de gestion de données. En finalité nous avons choisi d'utiliser la maquette d'Elsa, material UI convenant bien plus à notre utilisation car plus polyvalent et la documentation étant plus fournie que celle d'Ant Design qui est elle encore partiellement en chinois.
 
 ### Maquette Mobile Elsa
 https://www.figma.com/file/DskeYvLuwb0MeeW0h3MXxW/SAE-401?type=design&node-id=0%3A1&mode=design&t=GaUnqXG7wlMfBKax-1
