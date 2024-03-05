@@ -97,13 +97,13 @@ Page de connexion comprenant deux input (mail et mot de passe) afin de se connec
 <br>
 Page d'inscription comprenant les différents input pour s'inscrire et deux boutons "suivant" et "annuler".
 
-### Ecran 4 / Page 4
+### Ecran 4 / Page 3
 
 ![Inscription2](https://github.com/mmicastres/sae401-milhet_elsa_melle_florestan/assets/150163972/e9867f51-8bfd-4968-be71-5e8e296f311e)
 <br>
 Suite page inscription comprenant les inputs pour la ville et l'âge, un bouton pour rajouter une photo de profil et enfin deux boutons pour préciser son sexe
 
-### Ecran x / Page 5
+### Ecran 5 / Page 4
 ![accueilsansco](https://github.com/mmicastres/sae401-milhet_elsa_melle_florestan/assets/150163972/2c62d60b-e7ca-44ff-9b52-640d9552267d)
 <br>
 Page d'accueil comprenant différentes cards dans lesquels sont affichés les animaux pour un utilisateur non connecté on retrouve un profil pour se connecter ( en haut à gauche ) et un bouton filtre pour ajouter des paramètres de recherche, un slider permettant de choisir le type d'animal recherché, une barre de recherche pour chercher un paramètre spécifique et enfin des boutons like sur chaque card pour ajouter l'animal aux favoris
